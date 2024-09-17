@@ -41,3 +41,5 @@
 <p>Além de separar a construção de um objeto complexo de sua representação, o mesmo processo de construção pode gerar diferentes representações.</p>
 
 *A invariância é a condição em que o estado interno de um objeto deve sempre permanecer válido.*
+
+<p>O Director é um objeto que define a ordem em que os métodos de construção de um objeto complexo devem ser chamados, permitindo o reuso de uma configuração específica.</p>
