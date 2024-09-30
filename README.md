@@ -43,3 +43,15 @@
 *A invariância é a condição em que o estado interno de um objeto deve sempre permanecer válido.*
 
 <p>O Director é um objeto que define a ordem em que os métodos de construção de um objeto complexo devem ser chamados, permitindo o reuso de uma configuração específica.</p>
+
+<h2>Structural</h2>
+
+<h3>Adapter (Wrapper)</h3>
+
+<p>O padrão Adapter é usado para converter a interface de uma classe em outra que o cliente espera. Ele atua como uma tradução (conversão), permitindo a integração sem gerar acoplamento entre as classes.</p>
+
+*O padrão Repository atua como um mediador entre o domain model e os mecanismos de persistência de dados, como memória, banco de dados ou disco.*
+
+*Bounded Context é a solução técnica do Domain-Driven Design para lidar com um ou mais conjuntos de sub-domínios.*
+
+*O padrão Gateway permite acessar um sistema externo por meio de um objeto.*
